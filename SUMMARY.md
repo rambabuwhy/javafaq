@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Overloading vs Overriding vs Dynamic dispatch](README.md)
-* [Page 1](page-1.md)
+* [Cover](README.md)
+* [Overloading vs Overriding vs Dynamic dispatch](<README (1).md>)
