@@ -5,4 +5,5 @@
 * [Java Runtime Environment (JRE)](java-runtime-environment-jre.md)
 * [Java Virtual Machine (JVM)](java-virtual-machine-jvm.md)
 * [compare objects](compare-objects.md)
+* [Multilevel inheritance](multilevel-inheritance.md)
 * [multiple inheritance](multiple-inheritance.md)
