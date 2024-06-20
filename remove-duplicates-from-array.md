@@ -1,5 +1,16 @@
 # Remove Duplicates from Array
 
+* **Logic**: Use a `HashSet` to store unique elements from the array. Convert the set back to an array.
+
+```java
+Set<Integer> set = new HashSet<>();
+for (int i : arr) {
+    set.add(i);
+}
+```
+
+Code:
+
 ```java
 import java.util.Arrays;
 import java.util.HashSet;

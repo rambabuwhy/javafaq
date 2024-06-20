@@ -1,5 +1,17 @@
 # Anagram Check
 
+* **Logic**: Convert both strings to character arrays, sort them, and compare if they are equal.
+
+```java
+char[] arr1 = str1.toCharArray();
+char[] arr2 = str2.toCharArray();
+Arrays.sort(arr1);
+Arrays.sort(arr2);
+return Arrays.equals(arr1, arr2);
+```
+
+Code:
+
 ```java
 import java.util.Arrays;
 

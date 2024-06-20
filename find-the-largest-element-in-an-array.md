@@ -1,5 +1,16 @@
 # Find the Largest Element in an Array
 
+* **Logic**: Iterate through the array and keep track of the maximum value found.
+
+```java
+int max = arr[0];
+for (int i : arr) {
+    if (i > max) max = i;
+}
+```
+
+Code:
+
 ```java
 public class LargestElement {
     public static int findLargest(int[] arr) {
