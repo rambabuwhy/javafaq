@@ -53,3 +53,4 @@
 * [enums](enums.md)
 * [String, StringBuilder, and StringBuffer](string-stringbuilder-and-stringbuffer.md)
 * [method hiding](method-hiding.md)
+* [finalize() method](finalize-method.md)
