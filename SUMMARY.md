@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cover](README.md)
+* [What is polymorphism in Java](README.md)
 * [Overloading vs Overriding vs Dynamic dispatch](overloading-vs-overriding-vs-dynamic-dispatch.md)
 * [Java Runtime Environment (JRE)](java-runtime-environment-jre.md)
 * [Java Virtual Machine (JVM)](java-virtual-machine-jvm.md)
@@ -26,3 +26,10 @@
 * [Find the Intersection of Two Arrays](find-the-intersection-of-two-arrays.md)
 * [Find the Majority Element in an Array](find-the-majority-element-in-an-array.md)
 * [Find the Kth Largest Element in an Array](find-the-kth-largest-element-in-an-array.md)
+* [What is OOP and its basic principles](what-is-oop-and-its-basic-principles.md)
+* [How do you implement inheritance in Java](how-do-you-implement-inheritance-in-java.md)
+* [What is method overloading and method overriding](what-is-method-overloading-and-method-overriding.md)
+* [What is encapsulation? How do you achieve it in Java](what-is-encapsulation-how-do-you-achieve-it-in-java.md)
+* [Explain abstraction with an example](explain-abstraction-with-an-example.md)
+* [What is an interface in Java](what-is-an-interface-in-java.md)
+* [Explain the concept of constructor overloading](explain-the-concept-of-constructor-overloading.md)
